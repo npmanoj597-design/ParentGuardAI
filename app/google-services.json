@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869152925952",
+    "project_id": "parentguardai",
+    "storage_bucket": "parentguardai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869152925952:android:a81bfebeb9757f06c5abe5",
+        "android_client_info": {
+          "package_name": "com.parentguard.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFG_f2FSducQ-OY-GQGbUC9cBg3hE_1cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
